@@ -18,6 +18,6 @@ The solutions are organized by year and day. Each day's folder typically contain
 │   ├── 1/
 │   │   ├── main.py
 │   │   └── input.txt (gitignored)
-│   ├── day02/
+│   ├── 2/
 │   └── ...
 └── README.md
